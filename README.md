@@ -1,4 +1,5 @@
-# mozilla_science_fellowship
+# Mozilla Science Fellowship 2015-2016
+
 Keeping track of my work during my Mozilla Science Lab Fellowship
 
 ### Stuff you can look at:
