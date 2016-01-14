@@ -16,10 +16,10 @@ Along with @joeyklee, we coined [the 'sprint' model for the fellowship](https://
 
 These may be in various states of completion and are not likely to be as well documented as the sprint projects.
 
-- [Command-line bootcamp](rik.smith-unna.com/command_line_bootcamp) and its [github repo](https://github.com/Blahah/command_line_bootcamp). A browser-based adventure where you learn the unix command-line from scratch. Beginner friendly!
-- [MozMap](http://joeyklee.github.io/mozmap2015/) - an app to help you navigate the conceptual landscape of MozFest created by @joeyklee and I during MozFest 2015
-- [My directory of openness](https://github.com/Blahah/how_to_open)
-- [My introductory course on open science](https://github.com/Blahah/intro_to_open_science)
+- [Command-line bootcamp](rik.smith-unna.com/command_line_bootcamp) and its [github repo](https://github.com/Blahah/command_line_bootcamp). A browser-based adventure where you learn the unix command-line from scratch. Beginner friendly! [fairly complete]
+- [MozMap](http://joeyklee.github.io/mozmap2015/) - an app to help you navigate the conceptual landscape of MozFest created by @joeyklee and I during MozFest 2015 [usable, but will be improved before Mozfest 2016]
+- [My directory of openness](https://github.com/Blahah/how_to_open) [incomplete]
+- [My introductory course on open science](https://github.com/Blahah/intro_to_open_science) [incomplete[
 
 #### Getting and managing the fellowship
 
