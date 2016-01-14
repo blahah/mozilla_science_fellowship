@@ -4,7 +4,7 @@ Keeping track of my work during my Mozilla Science Lab Fellowship
 
 ### Stuff you can look at:
 
-#### Sprint projects:
+#### Sprint projects
 
 Along with @joeyklee, we coined [the 'sprint' model for the fellowship](https://github.com/mozillascience/fellows-class-2015/blob/master/fellowship_sprints.md) 
 
