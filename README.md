@@ -1,6 +1,4 @@
-# Mozilla Science Fellowship 2015-2016
-
-Keeping track of my work during my Mozilla Science Lab Fellowship
+# Mozilla Science Fellowship 2015-2016 Resumé
 
 ## Trainings
 
